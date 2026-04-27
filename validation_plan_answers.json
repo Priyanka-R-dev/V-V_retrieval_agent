@@ -1,0 +1,1398 @@
+[
+  {
+    "question": "Who will complete Infrastructure qualification activities?",
+    "answer": "[Low Confidence] Infrastructure qualification activities are out of scope of the CSV processes defined by the WI/SOP and are not covered by this Test Plan; no executing team or individual is specified.",
+    "avg_score": -0.005,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.375
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.03
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.007
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.012
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.049
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.058
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.014
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.077
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.007
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.007
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.011
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.021
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.035
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.056
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.062
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.063
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.064
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.074
+      }
+    ]
+  },
+  {
+    "question": "Will there be a separate IQ plan and summary for this validation effort?",
+    "answer": "[Low Confidence] NA",
+    "avg_score": 0.028,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.108
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.086
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.062
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.083
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.028
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.025
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.016
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.015
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.106
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.027
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.041
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.006
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.022
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.037
+      }
+    ]
+  },
+  {
+    "question": "Which of the following points will IQ be executed?",
+    "answer": "[Low Confidence] NA",
+    "avg_score": -0.124,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.024
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.064
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.062
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.135
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.148
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.162
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.092
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.095
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.097
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.099
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.102
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.108
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.195
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.112
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.198
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.126
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.137
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.138
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.16
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.164
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.194
+      }
+    ]
+  },
+  {
+    "question": "How will IQ execution be documented?",
+    "answer": "[Low Confidence] NA",
+    "avg_score": 0.037,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.048
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.029
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.12
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.106
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.007
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.119
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.116
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.109
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.101
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.064
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.065
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.073
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.066
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.077
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.043
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.054
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.055
+      }
+    ]
+  },
+  {
+    "question": "Who will be performing IQ?",
+    "answer": "[Low Confidence] NA",
+    "avg_score": -0.154,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.196
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.206
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.21
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.22
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.008
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.009
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.012
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.239
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.043
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.06
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.068
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.152
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.191
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.236
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.252
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.257
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.261
+      }
+    ]
+  },
+  {
+    "question": "What type of testing will be completed for this validation effort?",
+    "answer": "The testing for this validation effort will be a **Combined System and User Acceptance Test (ST/UAT) Plan**.",
+    "avg_score": 0.237,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.191
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.35
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.216
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.206
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.244
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.19
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.293
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.285
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.278
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.2
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.25
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.235
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.254
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.191
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.177
+      }
+    ]
+  },
+  {
+    "question": "Will there be a separate plan and summary for ST?",
+    "answer": "[Low Confidence] No. There is a combined ST/UAT Test Plan and a Combined ST/UAT Summary Report; no separate ST plan or ST summary report will be generated.",
+    "avg_score": 0.04,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.381
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.205
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.032
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.028
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.098
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.06
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.041
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.019
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.09
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.035
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.018
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.076
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.077
+      }
+    ]
+  },
+  {
+    "question": "Who will execute the System Test?",
+    "answer": "System Testing will be executed by **Team A**.",
+    "avg_score": 0.228,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.311
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.288
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.175
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.32
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.201
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.295
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.177
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.174
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.173
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.268
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.374
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.244
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.238
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.22
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.103
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.165
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.155
+      }
+    ]
+  },
+  {
+    "question": "How will ST execution be documented?",
+    "answer": "ST execution will be documented through approved test scripts executed and recorded in the Application Lifecycle Management (ALM) tool, with objective evidence (e.g., screenshots, logs) and defects captured there, and the overall ST results summarized in a Combined ST/UAT Summary Report stored in the LMS Validation Document Repository.",
+    "avg_score": 0.123,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.219
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.206
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.28
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.075
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.062
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.281
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.269
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.086
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.082
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.068
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.068
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.052
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.124
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.072
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.071
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.055
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.015
+      }
+    ]
+  },
+  {
+    "question": "Will there be a separate plan and summary for UAT?",
+    "answer": "No. There will not be a separate UAT plan and summary; UAT is covered within the combined ST/UAT plan, and results are summarized in a Combined ST/UAT Summary Report rather than a standalone UAT Summary Report.",
+    "avg_score": 0.164,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.397
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.265
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.201
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.217
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.248
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.231
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.22
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.119
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.106
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.1
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.094
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.088
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.087
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.053
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.036
+      }
+    ]
+  },
+  {
+    "question": "Who will UAT be executed by?",
+    "answer": "[Low Confidence] UAT will be executed by representative business users (testers) from all user areas (departments and sites), under the coordination of the Test Lead and with oversight/approval by the Business Owner.",
+    "avg_score": 0.031,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.286
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.267
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.238
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.013
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.095
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.269
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.221
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.201
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.052
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.093
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.02
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.088
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.091
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.11
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.115
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.134
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.163
+      }
+    ]
+  },
+  {
+    "question": "Will impacted business units be engaged in the UAT process?",
+    "answer": "Yes. Impacted business units will be engaged in the UAT process, as:\n\n- UAT is executed by representative users from all user areas (“Do the groups and locations listed above represent all user areas…? – Yes ☒”).\n- The Business Owner (a business role) is responsible for confirming the LMS meets intended business use through review and approval of UAT results.\n- UAT results are formally summarized and approved within the Combined ST/UAT Summary Report.",
+    "avg_score": 0.118,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.196
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.149
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.214
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.212
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.179
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.167
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.16
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.094
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.065
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.063
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.053
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.034
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.103
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.095
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.063
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.043
+      }
+    ]
+  },
+  {
+    "question": "How will UAT execution be documented?",
+    "answer": "UAT execution will be documented through approved and executed test scripts (with objective evidence) managed in the ALM tool, and the results will be summarized in a Combined ST/UAT Summary Report stored in the LMS Validation Document Repository.",
+    "avg_score": 0.227,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.518
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.224
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.194
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.172
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.166
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.29
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.29
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.391
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.164
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.161
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.159
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.154
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.149
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.275
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.228
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.211
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.168
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.165
+      }
+    ]
+  },
+  {
+    "question": "Is data migration included in this validation effort?",
+    "answer": "[Low Confidence] Data migration is **not** included in this validation effort. The plan explicitly states that no data will be migrated from another system into the testing environment and that all test data will be manually created synthetic/mock data.",
+    "avg_score": 0.048,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.22
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.207
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.169
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.02
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.153
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.047
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.039
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.072
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.07
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.004
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.017
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.011
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.077
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.014
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.055
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.024
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.011
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.011
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.019
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.039
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.051
+      }
+    ]
+  },
+  {
+    "question": "Which of these deliverables will apply?",
+    "answer": "[Low Confidence] The applicable deliverables are:\n\n- Test Plan  \n- Approved, executed test scripts with supporting evidence (where appropriate)  \n- Traceability Matrix  \n- Test Summary Report (specifically a Combined ST/UAT Summary Report)",
+    "avg_score": -0.05,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.112
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.087
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.04
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.045
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.05
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.068
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.077
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.092
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.103
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.055
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.062
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.066
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.084
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.106
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.107
+      }
+    ]
+  },
+  {
+    "question": "Will there be a separate plan and summary for data migration testing?",
+    "answer": "NA",
+    "avg_score": 0.19,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.369
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.272
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.259
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.2
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.197
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.133
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.168
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.209
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.148
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.156
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.143
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.141
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.136
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.131
+      }
+    ]
+  },
+  {
+    "question": "Is the traceability of the system being updated or changed as a result of this validation effort?",
+    "answer": "Yes. The traceability of the system is being updated/changed as part of this validation effort, as evidenced by:\n\n- A project-specific traceability matrix that will be reviewed and verified upon completion of testing.\n- Final traceability confirmation documented in the Test Summary Report.\n- Use of the ALM tool to link requirements, test scripts, and execution results.\n- The traceability matrix being managed as a combination project-specific and living document.",
+    "avg_score": 0.087,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.277
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.116
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.055
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.054
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.195
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.063
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.014
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.087
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.069
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.098
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.048
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.081
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.079
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.028
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.055
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.09
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.07
+      }
+    ]
+  },
+  {
+    "question": "How is the traceability matrix being managed for this validation effort?",
+    "answer": "The traceability matrix is being managed as a **combination project-specific and living document**.",
+    "avg_score": 0.163,
+    "confidence": "normal",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.524
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.335
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.133
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.202
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.072
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.124
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.178
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.17
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.166
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.061
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.177
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.161
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.141
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.059
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.059
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.044
+      }
+    ]
+  },
+  {
+    "question": "What is included in the traceability matrix?",
+    "answer": "[Low Confidence] The traceability matrix includes:\n\n- Links from requirements to test scripts  \n- Links from test scripts to test execution results  \n- Documentation of any requirement or defect not directly traceable to a test script, including justification or alternative control",
+    "avg_score": 0.041,
+    "confidence": "low",
+    "sources": [
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.654
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.294
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.043
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.051
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.076
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": 0.028
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.017
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.049
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.055
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.065
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.065
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.083
+      },
+      {
+        "source": "input file\\LMS Test Plan Sample.pdf",
+        "score": -0.132
+      }
+    ]
+  }
+]
