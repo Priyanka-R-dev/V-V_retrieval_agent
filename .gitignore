@@ -5,6 +5,10 @@
 __pycache__/
 *.py[cod]
 
+# Ignore local databases and usage logs
+chroma_db/
+openai_call_log.json
+
 # Ignore environment variable files
 .env
 
